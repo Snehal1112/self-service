@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Z3KJ6CvqZhIMNuefhZjUM3aqJxFRKFuWjnxX4icS24=",
+  "Source": "self-service",
+  "BasePath": "_content/self-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

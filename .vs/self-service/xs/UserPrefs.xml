@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DAA5C677-D49D-4562-94BE-57BFA6160365}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.self-service PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="self-service/WeatherForecast.cs">
+    <Files>
+      <File FileName="self-service/WeatherForecast.cs" Line="11" Column="30" />
+      <File FileName="self-service/Program.cs" Line="25" Column="11" />
+      <File FileName="self-service/appsettings.Development.json" />
+      <File FileName="self-service/Properties/launchSettings.json" />
+      <File FileName="self-service/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="self-service/InvoiceList.cs" Line="6" Column="25" />
+      <File FileName="self-service/Controllers/InvoiceListController.cs" Line="30" Column="20" />
+      <File FileName="self-service/appsettings.json" Line="1" Column="1" />
+      <File FileName="self-service/Models/InvoiceModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="self-service" expanded="True">
+            <Node name="self-service" expanded="True">
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EFDataAccessLibrary FirstBuild="True" />
+</Properties>
