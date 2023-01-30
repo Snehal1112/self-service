@@ -1,4 +1,5 @@
 ﻿using EFDataAccessLibrary.DataAccess;
+using EFDataAccessLibrary.Models;
 using Microsoft.EntityFrameworkCore;
 
 IConfiguration configuration = new ConfigurationBuilder()
@@ -11,8 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddDbContext<PeopleContext>(options =>
 {
-    options.UseSqlServer("Data Source=192.168.1.11;Initial Catalog=self_service;User ID=SA;Password=Snehal@1977;");
-    // options.UseSqlServer(configuration.GetConnectionString("Default"));
+     options.UseSqlServer(configuration.GetConnectionString("Default"));
 });
 
 builder.Services.AddControllers();

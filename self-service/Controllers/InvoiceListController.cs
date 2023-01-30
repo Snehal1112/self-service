@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using EFDataAccessLibrary.DataAccess;
+using Microsoft.AspNetCore.Mvc;
 
 namespace self_service.Controllers;
 
@@ -37,13 +38,13 @@ public class InvoiceListController : ControllerBase
     }
 
     [HttpGet("{id}")]
-    public IEnumerable<InvoiceList> GetInvoices()
+    public InvoiceList GetInvoices()
     {
-        return Enumerable.Range(1, 5).Select(index => new InvoiceList
+
+        return new InvoiceList
         {
-            Summary = Summaries[Random.Shared.Next(Summaries.Length)],
-            Total = "2223333"
-        })
-        .ToArray();
+            Summary = "sddd",
+            Total = "ww",
+        };
     }
 }

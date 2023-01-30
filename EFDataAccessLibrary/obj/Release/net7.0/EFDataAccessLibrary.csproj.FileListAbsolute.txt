@@ -1,0 +1,14 @@
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/bin/Release/net7.0/EFDataAccessLibrary.deps.json
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/bin/Release/net7.0/EFDataAccessLibrary.runtimeconfig.json
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/bin/Release/net7.0/EFDataAccessLibrary.dll
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/bin/Release/net7.0/EFDataAccessLibrary.pdb
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.csproj.AssemblyReference.cache
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.AssemblyInfoInputs.cache
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.AssemblyInfo.cs
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.dll
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/refint/EFDataAccessLibrary.dll
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.pdb
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/EFDataAccessLibrary.genruntimeconfig.cache
+/Users/lockstep/Projects/self-service/EFDataAccessLibrary/obj/Release/net7.0/ref/EFDataAccessLibrary.dll
